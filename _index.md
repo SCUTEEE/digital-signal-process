@@ -1,6 +1,6 @@
 ---
 title: 数字信号处理
-type: series
+series: true
 cascade:
   params:
     math: true
